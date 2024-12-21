@@ -31,7 +31,7 @@ For more about me and my work, visit my [portfolio website](https://amanuel496.g
 
 ## 📫 Contact Me
 
-- **Email:** My Email (mailto:aman.chukala@gmail.com)
+- **Email:** [My Email] (mailto:aman.chukala@gmail.com)
 - **LinkedIn:** My LinkedIn (https://www.linkedin.com/in/yourprofile)
 
 Feel free to reach out if you have any questions or collaboration ideas!

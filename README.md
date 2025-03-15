@@ -13,6 +13,10 @@ I'm a Data Engineer with a passion for transforming raw data into actionable ins
 
 Here are some of my notable projects:
 
+### [Automated YouTube Comment Sentiment Analysis](https://github.com/amanuel496/youtube-sentiment-analysis)
+
+A fully automated ETL pipeline that extracts comments from YouTube videos, processes and analyzes sentiment, and presents insights through a public-facing website. 
+
 ### [MDL Processing Tool](https://github.com/amanuel496/MDL_Processing)
 
 A Python-based tool designed to facilitate the processing and management of Master Data Load (MDL) files. It enables users to parse, transform, and validate data efficiently.
@@ -20,10 +24,6 @@ A Python-based tool designed to facilitate the processing and management of Mast
 ### [COVID-19 ETL Pipeline](https://github.com/amanuel496/covid-19-etl)
 
 A comprehensive ETL pipeline that extracts COVID-19 data from various sources, transforms it into a standardized format, and loads it into a database for analysis. This project demonstrates proficiency in data extraction, transformation, and loading processes.
-
-### [Flight Deals Tracker](https://github.com/amanuel496/flight-deals)
-
-A Python application that tracks flight prices and sends notifications for the best deals. It integrates with flight APIs to provide real-time data, helping users find cost-effective travel options.
 
 ## 🌐 Portfolio
 

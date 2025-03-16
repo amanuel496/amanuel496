@@ -25,10 +25,6 @@ A Python-based tool designed to facilitate the processing and management of Mast
 
 A comprehensive ETL pipeline that extracts COVID-19 data from various sources, transforms it into a standardized format, and loads it into a database for analysis. This project demonstrates proficiency in data extraction, transformation, and loading processes.
 
-## 🌐 Portfolio
-
-For more about me and my work, visit my [portfolio website](https://amanuel496.github.io/).
-
 ## 📫 Contact Me
 
 - **Email:** [My Email](mailto:aman.chukala@gmail.com)

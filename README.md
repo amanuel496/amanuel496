@@ -13,6 +13,10 @@ I'm a Data Engineer with a passion for transforming raw data into actionable ins
 
 Here are some of my notable projects:
 
+### [Real-Time E-Commerce ETL Pipeline](https://github.com/amanuel496/real-time-ecommerce-etl-pipeline)
+
+A scalable real-time ETL pipeline for e-commerce platforms, built with AWS Kinesis, Apache Spark, and Amazon Redshift. Designed to ingest, transform, and analyze transactional data for instant business insights using Airflow and QuickSight.
+
 ### [Automated YouTube Comment Sentiment Analysis](https://github.com/amanuel496/youtube-sentiment-analysis)
 
 A fully automated ETL pipeline that extracts comments from YouTube videos, processes and analyzes sentiment, and presents insights through a public-facing website. 
@@ -20,10 +24,6 @@ A fully automated ETL pipeline that extracts comments from YouTube videos, proce
 ### [MDL Processing Tool](https://github.com/amanuel496/MDL_Processing)
 
 A Python-based tool designed to facilitate the processing and management of Master Data Load (MDL) files. It enables users to parse, transform, and validate data efficiently.
-
-### [COVID-19 ETL Pipeline](https://github.com/amanuel496/covid-19-etl)
-
-A comprehensive ETL pipeline that extracts COVID-19 data from various sources, transforms it into a standardized format, and loads it into a database for analysis. This project demonstrates proficiency in data extraction, transformation, and loading processes.
 
 ## 📫 Contact Me
 

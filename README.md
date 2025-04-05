@@ -2,12 +2,14 @@
 
 I'm a Data Engineer with a passion for transforming raw data into actionable insights. With a strong foundation in Python, C++, Java, and web development technologies, I specialize in building efficient data pipelines and analytical solutions.
 
-## Technologies & Tools
+## Technical Skills
 
-- **Programming Languages:** Python, C++, Java
-- **Web Development:** HTML, CSS, JavaScript, React.js, Node.js
-- **Data Engineering:** SQL, ETL Processes, Data Warehousing
-- **Tools & Platforms:** Git, Docker, AWS, Hadoop, Spark
+- **Languages:** Python, Java, JavaScript, Scala, C/C++, Bash  
+- **Big Data & Streaming:** Apache Spark (Structured Streaming), Kafka, Airflow, EMR, Glue, Athena  
+- **Cloud & DevOps:** AWS (S3, Redshift, Lambda, CloudWatch, QuickSight), Docker, Jenkins, GitHub Actions  
+- **Databases:** PostgreSQL, MySQL, MongoDB, Oracle, SQL Server, Redshift  
+- **Tools & Practices:** Git, GitHub, GitLab, Agile (Scrum), CI/CD, Jira  
+- **Data Skills:** SQL, NoSQL, Data Modeling, ETL Design, Data Warehousing, Visualization
 
 ## Contact Me
 
